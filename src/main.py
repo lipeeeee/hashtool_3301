@@ -2,6 +2,13 @@ import os
 import argparse
 from utils import SUPPORTED_ALGOS
 
+'''
+    COMMAND LINE TOOL TO ASSIST IN DECODING THE DEEP WEB
+    HASH IN THE PAGE 56 LIBER PRIMUS, THE HASH COMES FROM
+    A 512bit HASH FUNCTION 
+    (THE CURRENTLY SUPPORTED HASH FUNCTIONS
+    ON THIS TOOL ARE IN utils.py)
+'''
 def main(args):
     print(args)
 
