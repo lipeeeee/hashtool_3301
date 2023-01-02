@@ -1,0 +1,4 @@
+SUPPORTED_ALGOS = [
+    "SHA512",
+    "BLAKE512"
+]
